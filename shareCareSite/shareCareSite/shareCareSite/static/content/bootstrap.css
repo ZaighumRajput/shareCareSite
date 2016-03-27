@@ -2270,7 +2270,7 @@ fieldset[disabled] .btn-success.active {
 }
 
 .btn-info:active,
-.btn-info.active,
+.btn-info.active,small
 .open .dropdown-toggle.btn-info {
   background-image: none;
 }
